@@ -7,7 +7,7 @@ defaults:
     values:
       layout: "default"
       # Sites have their own title to show.
-      title: "MarioCube"
+      title: "Open Shop Channel"
 markdown: kramdown
 plugins:
   - jekyll-sitemap
