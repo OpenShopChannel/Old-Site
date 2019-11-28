@@ -1,0 +1,13 @@
+# Build settings
+title: MarioCube
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      # Sites have their own title to show.
+      title: "MarioCube"
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
